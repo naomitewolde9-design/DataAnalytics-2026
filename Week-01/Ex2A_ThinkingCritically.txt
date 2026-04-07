@@ -1,0 +1,60 @@
+1. Before doing any other investigation, list two or three questions that this infographic and explanation of methodology raise in your mind.
+
+a)Is there a time frame that people were picking these food? Like breakup season?
+
+b)What states had the most survey information?
+
+c)What were the top 5 breakup food chosen?
+
+	I asked all these questions to be more specific about demographic and add more numerical and categorical values to be able to process the data. 
+ 
+2. Where can you find Google Trends search data? Provide the URL.
+
+https://trends.google.com/explore?q=milkshakes&date=now%201-d&geo=US
+
+3. The article concluded that “milkshakes take the crown as the ultimate breakup food, topping the list in six states.” Pull up Google Trends data on Milkshake (beverage) and change the date range to February 1, 2024 through February 28, 2025.
+
+a) What is the highest peak recorded in the line chart for “Interest over time”?
+	April 5, 2026 with interest at 100 
+
+b) What is the lowest dip recorded?
+
+	The lowest dip of "interest" in milkshakes was actually during the AM to 8:30AM being 0 throughout this time frame.
+ 
+4. At the top next to the box for “Milkshake,” there is a plus sign to add another search term. Click the plus sign to add a search for Hamburger (Food).
+
+a) What is the highest peak recorded for searches using Hamburger? What is the lowest dip?
+
+April 6, 2026 at 22 "interest(daily)"
+  
+b) What happened to the line for Milkshake? What do the high and low look like now?
+
+Milkshake line is extremely low compared to the Hamburger line being way higher     
+
+5. Why did the line for Milkshake change? Hint: Click on the icon next to “Interest" over time” for more information about how trend results are displayed.
+
+I used google trends to compare the time frame of the dataset (daily, weekly, and monthly)Google trends showed that regardless of the time frame the average of people searching Hamburgers over Milkshakes was higher. For example, I used the "Average" function on Google Trends and it showed that the Average of Monthly searches for Hamburgers was 71 and Milkshakes was only 2 in comparison. 
+
+6. Add a third term to your search, this time for Breakup (Topic).
+
+a) Do you see any patterns that suggest a relationship between searches for Breakup and Hamburger?
+
+I definitely noticed a jump in searches with Hamburgers(food) and Breakup(topic). On the graph it clearly shows that there is a correlation between the two. The more people search Hamburgers the more people searched Breakup(topic). It's not a huge difference in comparison to Milkshakes but there is a noticeable difference. In the past month the average of searches for Hamburger was 71 and for Breakup it was 17.
+
+b) How about between Breakup and Milkshake?
+
+There was an extreme correlation between Breakup searches and Milkshake searches. The lines on the graph showing Monthly searches were almost in unison. The more Milkshakes were searched for the more Breakup was searched for. 
+
+7. What does all of this suggest about the reliability of the conclusions reached in the article?
+It's not 100% reliable because the graphed information doesn't correlate with the article information.
+
+8. At the upper right of Google Trends, click on the link for “Back to Classic Explore.” Notice that this view includes a section for “Compared breakdown by subregion.”
+
+a) What was the top state by interest for Milkshake?
+Rhode Island
+b) What was the top state by interest for Hamburger?
+Wyoming
+
+
+9. Use the download icon to download a csv file with these search trend results. Save it
+to your DataAnalytics/week-01 folder as GTrends_milkshake_hamburger_2024.csv
