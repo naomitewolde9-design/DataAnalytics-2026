@@ -1,0 +1,134 @@
+Click on “View responses” to see the Responses Summary. In your .txt file, write numbers
+1 through 5 to represent the five survey questions. For each survey question, consider the following:
+
+SURVEY QUESTION #1: 
+
+1. What conclusion can you reach about the responses to this question?
+
+All the responses summarized amazing ways to be prepared for class. For example most people mentioned logging early instead of on time and having all there materials ready the night before. 
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+I understand the concept of the visualization but I would prefer something that is visually organized and easy to digest. 
+
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+
+I just noticed that a lot said "5 minutes before" when it came to how people wanted to be early. It's hard to categorize all the responses. 
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+
+I think because it's open response you can have an organized response to categorize. I think it would better to list out options to chose from and you can pick multiple responses. 
+
+5. Now that you can see the responses, how might you recommend rephrasing this or question or the response options in a future survey?
+
+I think the question/prompt is good.
+
+SURVEY QUESTION #2: 
+
+1. What conclusion can you reach about the responses to this question?
+
+Half of the people have a laptop and half of the people said other. I think the survey question should have a written response for people who selected "other"  
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+I actually love pie charts because its easy to read and it's organized. I think the only thing I would change is making the pie chart a whole and not hollow.   
+
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+
+I tapped the three little dots to locate more information about the other information.    
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+
+The written responses have information that doesn't have correlation.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or question or the response options in a future survey?
+
+"Do you have a second monitor, yes or no."
+
+SURVEY QUESTION #3
+
+1. What conclusion can you reach about the responses to this question?
+
+Most people either definitely have a mouse or keyboard or definitely don't have a mouse or keyboard. All the "other" responses either have only a mouse or only a keyboard.  
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+The visual data set was easy to read 
+
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+
+Either people had only a keyboard or only a mouse when they used the "other" option.
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+
+All the information was clear and digestible. 
+
+5. Now that you can see the responses, how might you recommend rephrasing this or question or the response options in a future survey?
+
+"Do you have an external Keyboard or mouse or just a mouse or just a keyboard"
+
+
+SURVEY QUESTION #4
+
+1. What conclusion can you reach about the responses to this question?
+
+People still enjoy using pen and paper to write out notes.  
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+I think it's helpful the way the data set is set up as pie chart
+
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+
+I think everyone gave a clear and concise response to what they use to take notes. 
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+
+Some outlier responses might change the average response. For example one person mentioned they actually screenshot the PowerPoints so that their able to take notes later.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or question or the response options in a future survey?
+
+I think instead of saying something else I would just use the word "other" and add options of different ways to take notes so it is something that can be measured correctly.
+
+
+Survey Question #5
+
+
+1. What conclusion can you reach about the responses to this question?
+
+This question was optional so there isn't enough data to get from the data set. Most people just had questions about the course itself. 
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+I don't prefer the data set to be set up this way because I prefer the data to be more organized and digestible. 
+
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+
+The text response is shown    
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+
+All the responses have all to do with what students would like to learn and improve on. I think because it's open response a lot of the answers can't necessarily be calculated. 
+
+5. Now that you can see the responses, how might you recommend rephrasing this or question or the response options in a future survey?
+
+I would keep the question as is but I would add options for people to chose from so that it can be calculated. 
+
+Next respond to the below questions:
+
+6. Is there anything that surprised you about the survey responses?
+
+I didn't see anything out of the ordinary only because most of the questions have trackable response and not many open ended responses.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about?
+
+I think 5 minutes before class I'll make sure to have everything like my notebook, pen or pencil, and come dressed and ready to interact.   
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+
+I would make sure to go over the course objectives and show examples of what you'll actually be completing during your internship.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not? (If you can see both pros and cons, you may include both.)
+
+I think it's definitely helpful to have all the responses as anonymous because I think it will push more honest responses 
+
