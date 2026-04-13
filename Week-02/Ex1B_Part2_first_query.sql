@@ -3,4 +3,6 @@ Sakila is a database used to collect information about films actors customers st
 */
 
 USE sakila; 
-SELECT * FROM actor 
+SELECT * FROM actor; -- Retreived 200 records 
+
+SELECT * FROM film; -- Retrevied 1000 records 
