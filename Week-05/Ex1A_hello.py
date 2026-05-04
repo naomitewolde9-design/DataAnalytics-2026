@@ -21,3 +21,14 @@ print(dollars + cents)
 d_str = '3 dollars'
 c_str = '50 cents'
 print(d_str + " " + c_str) 
+
+
+# Hello World
+# Hello World
+#3.5
+#3.75
+#3 dollars 50 cents
+
+print(d_str, c_str)
+
+#3 dollars 50 cents
