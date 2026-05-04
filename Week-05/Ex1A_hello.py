@@ -22,7 +22,7 @@ d_str = '3 dollars'
 c_str = '50 cents'
 print(d_str + " " + c_str) 
 
-
+#OUTPUT 
 # Hello World
 # Hello World
 #3.5
@@ -31,4 +31,5 @@ print(d_str + " " + c_str)
 
 print(d_str, c_str)
 
+#OUTPUT
 #3 dollars 50 cents
