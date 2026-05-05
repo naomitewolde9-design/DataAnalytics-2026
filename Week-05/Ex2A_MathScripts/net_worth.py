@@ -6,7 +6,7 @@ print('Your total assets are:' + " " + str(total_assets))
 print('Your total debts are:' + " " + str(debts))
 print('Your net worth is:' + " " + str(net_worth)) 
 
-#OUTPUT 
+#OUTPUT: 
 # Your total assets are: 100000
 # Your total debts are: 2000
 # Your net worth is: 98000
