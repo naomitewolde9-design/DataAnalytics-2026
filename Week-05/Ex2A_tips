@@ -1,0 +1,32 @@
+# Define known values
+# a) Remember what the str() function is for? Why is this being used here?
+# the str() is use to combine or show int with text without causing an error 
+
+food_cost = 79.25
+tax = 6.54
+tip = 12.00
+# Calculate the unknown
+total_due = food_cost + tax + tip
+# Display the results
+# print("The total due is " + str(total_due))
+# Answer: The total due is 97.79
+
+print("Food cost is " + str(food_cost) + " and tax is " + str(tax))
+# print("Tip is " + str(tip))
+print("Total due is " + str(total_due)) 
+
+#OUTPUT: 
+# Food cost is 79.25 and tax is 6.54
+# Tip is 12.0
+# Total due is 97.79
+
+print("Tip is " + format(tip, ".2f"))
+# Notice here that the format() function is used to format data 
+# as a string, so we do not need to also include the 
+# str() function with it.
+
+#OUTPUT 
+# Food cost is 79.25 and tax is 6.54
+# Total due is 97.79
+# Tip is 12.00 
+
