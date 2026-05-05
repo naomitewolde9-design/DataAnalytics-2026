@@ -36,6 +36,18 @@ print('My Personal Info: ')
 print('First and Last name: ' + first_name + ' ' + last_name)
 print('Location: ' + city + ', ' + state)
 
+#OUTPUT:
+# Customer Auto Insurance: 
+# Customer ID: 687
+# Customer’s name: Naomi Tewolde
+# Customer gender: Female
+# Customer date of birth: 02/13/2003
+# Driver's license number: 10101010
+# Auto policy number: 12121212
+# My Personal Info: 
+# First and Last name: Naomi Tewolde
+# Location: Charlotte, North Carolina
+
 
 #PYTHON RESERVED WORDS
 
