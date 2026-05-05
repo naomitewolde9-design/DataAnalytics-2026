@@ -55,3 +55,5 @@ print('Location: ' + city + ', ' + state)
 
 # raise  None  del  import  return  in  try  and  else  is  while  as  except with lambda
 # ^^     ^^    ^^   ^^      ^^      ^^  ^^   ^^   ^^    ^^  ^^     ^^  ^^     ^^   ^^
+# assert finally nonlocal yield break for not class	form or continue global	pass 
+# ^^     ^^      ^^       ^^    ^^    ^^  ^^  ^^    ^^   ^^ ^^       ^^     ^^ 
