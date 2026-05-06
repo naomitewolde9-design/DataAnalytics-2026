@@ -4,4 +4,4 @@ celsius = (fahrenheit - 32) * 5/9 # formula for farenheit to celsius is sub 32 a
 
 print(celsius)
 #25.0
-print(f"{fahrenheit}F is equal to {celsius:.2f}C")
+print(f"{fahrenheit}F is equal to {celsius:.1f}C")
