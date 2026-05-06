@@ -19,7 +19,11 @@ vans_total = vans_needed*van_cost
 per_person = vans_total/ppl_tour
 
 print(f'Total vans needed: {vans_needed}')
-print(f'Total rental van cost: {vans_total}')
-print(f"Cost total per person: {per_person: .2f}")
+print(f'Total rental van cost: ${vans_total:.2f}')
+print(f"Cost total per person: ${per_person:.2f}")
+
+#Total vans needed: 3
+#Total rental van cost: $750.00
+#Cost total per person: $19.74
 
 #There was a leftover amount becuase we had to round up for seating in the vans using math.ceil, no tourist left behind!
