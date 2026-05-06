@@ -27,3 +27,7 @@ print("Your total bill was $" + bill_amount + ", you also tipped $" + tip_amount
 #How much did you tip? 47.20
 #How would you rate your food 1-10? 10
 #Your total bill was $236, you also tipped $47.20 and you rated the food from 1-10 a: 10
+
+#Possible pitfalls: 
+
+# the person putting the input in could put in any value they want, I was the one opperating the code so I know what the variables are. 
