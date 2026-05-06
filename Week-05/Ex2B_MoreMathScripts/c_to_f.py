@@ -5,6 +5,6 @@ print(fahrenheit)
 
 #f-string 
 
-print(f'If celsius is {celsius} C then fahrenheit would be {fahrenheit}F')
+print(f'If celsius is {celsius} C then fahrenheit would be {fahrenheit} F')
 #91.76
 #If celsius is 33.2 C then fahrenheit would be 91.76F
