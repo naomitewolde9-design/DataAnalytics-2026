@@ -28,13 +28,6 @@ sample_avg = statistics.mean(vals_sample)
 # calculating the median
 sample_median = statistics.median(vals_sample)
 
-#OUTPUT:
-#Experimenting with a subset of integers 1-100:
-#Sum of 75 sample values from 1 to 100: 3507
-#Average of 75 sample values: 46.76
-#Median of 75 sample values: 46
-
-
 # PART 2: 
 
 # calculating the average (mean)
@@ -51,14 +44,6 @@ choices_std = statistics.stdev(vals_choices)
 
 # calculating the variance
 choices_var = statistics.variance(vals_choices)
-
-#OUTPUT:
-#Experimenting with a superset of 200 values, integers 1-100:
-#Average of 200 values: 52.935
-#Median of 200 values: 53.0
-#Mode of 200 values: 90
-#Standard deviation of 200 values: 29.449569789795234
-#Variance of 200 values: 867.2771608040201
 
 
 # PART 3:
@@ -94,3 +79,25 @@ print()
 print("_Modeling a random circle:\n")
 print(f"Radius = {radius:.2f}, area = {area_up} (rounded up to the nearest int)")
 print(f"Radius = {radius:.2f}, area = {area_down} (rounded down to the nearest int)")
+
+
+# OUTPUT:
+
+#_Experimenting with a subset of integers 1-100:
+
+#Sum of 75 sample values from 1 to 100: 3685
+#Average of 75 sample values: 49.13333333333333
+#Median of 75 sample values: 46
+
+#_Experimenting with a superset of 200 values, integers 1-100:
+
+#Average of 200 values: 52.125
+#Median of 200 values: 50.0
+#Mode of 200 values: 27
+#Standard deviation of 200 values: 29.32780208052373
+#Variance of 200 values: 860.1199748743719
+
+#_Modeling a random circle:
+
+#Radius = 2.09, area = 14 (rounded up to the nearest int)
+#Radius = 2.09, area = 13 (rounded down to the nearest int)
